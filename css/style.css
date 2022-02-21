@@ -4,6 +4,7 @@
 body {
     margin: auto;
     padding: 1em;
+    font-family: "Inter", sans-serif;
 }
 
 .value {
